@@ -7,3 +7,6 @@
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = https://git.openembedded.org/meta-openembedded
+[submodule "sources/meta-disco-pipeline"]
+	path = sources/meta-disco-pipeline
+	url = https://github.com/Lindharden/meta-disco-pipeline.git
